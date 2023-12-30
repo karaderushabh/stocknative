@@ -2,10 +2,10 @@
 
 git link: https://github.com/karaderushabh/stocknative.git
 
-# Your Project Name
+# StockNative
 
 ## Description
-Describe your project in a few sentences.
+Stock Project with dynamic data rendering
 
 ## Table of Contents
 - [Getting Started](#getting-started)
